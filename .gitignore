@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables (API keys etc.)
+.env
+.env.*
+
+# Local hackathon sheet / wireframe / memo files
+*.heic
+*.crdownload
+*.pdf
+*.docx
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
